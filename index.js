@@ -1,1 +1,1 @@
-console.log("LMAO")
+console.log('git is not that tough')
